@@ -1,2 +1,2 @@
 # BUGS
-Hackathon project to convert the text from a pdf to an audio file
+Hackathon project to create a game using turtle in python
